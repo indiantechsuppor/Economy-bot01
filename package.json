@@ -1,6 +1,6 @@
 "name": "EconomyBot",
   "version": "1.0.0",
-  "description": "Economy bot created by Indian tech support",
+  "description": "Economy bot created with quick.eco package in discord.js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -23,6 +23,6 @@
     "node": "12.x"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/indiantechsuppor/Economy-bot01.git"
   }
 }
